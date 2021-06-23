@@ -51,7 +51,7 @@
  
   * Application URL: (https://fjimenez51.github.io/Team-Generator/)
   * Github Repository URL: (https://github.com/fjimenez51/Team-Generator)
-  * Generated HTML URL: ((https://fjimenez.github.io/Team-Generator/generated-html/Allstar%20Team.html))
+  * Generated HTML URL: ((https://fjimenez.github.io/Team-Generator/generatedhtml/Allstar%20Team.html))
   
 
 ## License
