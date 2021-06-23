@@ -44,7 +44,7 @@
 
   ![Full Demo](./assets/demos/Run_App_Demo.gif?raw=true "Full Demo Gif")
 
-  ![Generated HTML](./assets/images/Generated_HTML_Screen_Shot.JPG?raw=true "Generated HTML")
+  ![Generated HTML](./assets/images/generatedhtml.png?raw=true "Generated HTML")
   
 
  ## Links
